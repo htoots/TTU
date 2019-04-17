@@ -1,2 +1,2 @@
 # TTU
-TIP/TTU/TalTech assignments
+TIP/TTU/TalTech resources
