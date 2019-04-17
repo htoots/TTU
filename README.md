@@ -1,2 +1,2 @@
 # TTU
-TTU TIP TalTech whatever works
+TIP/TTU/TalTech assignments
