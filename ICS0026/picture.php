@@ -1,4 +1,8 @@
 <?php
+  /* 
+   * Encrypt and decrypt input.jpg image with AES-128-CBC
+   * Author: Hannes Toots
+   */
   $file = './input.jpg';
 
   // echo image before encryption
